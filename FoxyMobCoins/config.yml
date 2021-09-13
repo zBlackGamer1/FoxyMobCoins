@@ -1,0 +1,6 @@
+MySQL:
+  ativo: false
+  address: 'localhost:3306'
+  database: 'test'
+  username: 'root'
+  password: ''

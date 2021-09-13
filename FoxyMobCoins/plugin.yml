@@ -1,0 +1,10 @@
+name: FoxyMobCoins
+version: 1.0.0
+author: zBlackGamer
+main: pt.com.FoxyMobCoins.Main
+softdepend: [HolographicDisplays]
+commands:
+  mobcoins:
+    usage: /mobcoins  
+    aliases: [mobcoin] 
+    description: Economia de mobcoins.
